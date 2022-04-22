@@ -1,0 +1,21 @@
+[submodule "Cpp-Concurrency-in-Action-2ed"]
+	path = Cpp-Concurrency-in-Action-2ed
+	url = https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed.git
+[submodule "Statistics-note"]
+	path = Statistics-note
+	url = https://github.com/ChanceQZ/Statistics-note.git
+[submodule "leetcode-master"]
+	path = leetcode-master
+	url = https://github.com/youngyangyang04/leetcode-master
+[submodule "qimo-review"]
+	path = qimo-review
+	url = https://github.com/1793523411/qimo-review.git
+[submodule "fucking-algorithm-book"]
+	path = fucking-algorithm-book
+	url = https://github.com/shichangzhi/fucking-algorithm-book.git
+[submodule "English-level-up-tips"]
+	path = English-level-up-tips
+	url = https://github.com/byoungd/English-level-up-tips.git
+[submodule "ENGLISH"]
+	path = ENGLISH
+	url = https://github.com/YJango/ENGLISH.git
