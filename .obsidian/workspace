@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "9ca22bc9b70cb588",
+    "type": "split",
+    "children": [
+      {
+        "id": "69818b5268c28d4a",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e47859121b9277c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3801a4ae71c7e63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69805a9b6e62ddc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6170318b24703654",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bcd7aa3603fa81dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "40a314d9944f44ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72a97344de7ea436",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "69818b5268c28d4a",
+  "lastOpenFiles": [
+    "2022 JSCPC参赛手册 (1).pdf",
+    "Untitled.md",
+    "qimo-review/docs/algorithm/02.md",
+    "CPP-Concurrency-In-Action-2ed-2019/SUMMARY.md",
+    "leetcode-master/problems/0062.不同路径.md",
+    "qimo-review/docs/algorithm/01.md",
+    "qimo-review/docs/algorithm/03.md",
+    "qimo-review/docs/algorithm/04.md",
+    "qimo-review/docs/algorithm/06.md",
+    "qimo-review/docs/README.md"
+  ]
+}
