@@ -19,3 +19,6 @@
 [submodule "ENGLISH"]
 	path = ENGLISH
 	url = https://github.com/YJango/ENGLISH.git
+[submodule "CPP-Concurrency-In-Action-2ed-2019"]
+	path = CPP-Concurrency-In-Action-2ed-2019
+	url = https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019.git
