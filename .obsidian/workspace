@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "69818b5268c28d4a",
+        "id": "a6c5d5a653265861",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -44,13 +44,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "4cde7c77a7eba2b0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bcd7aa3603fa81dd",
@@ -75,6 +82,36 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "718e9b806305c6f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5f2fc1f25dc03dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d095c1cb1b9920c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ]
       }
@@ -83,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69818b5268c28d4a",
+  "active": "a6c5d5a653265861",
   "lastOpenFiles": [
-    "2022 JSCPC参赛手册 (1).pdf",
-    "Untitled.md",
-    "qimo-review/docs/algorithm/02.md",
-    "CPP-Concurrency-In-Action-2ed-2019/SUMMARY.md",
-    "leetcode-master/problems/0062.不同路径.md",
-    "qimo-review/docs/algorithm/01.md",
-    "qimo-review/docs/algorithm/03.md",
-    "qimo-review/docs/algorithm/04.md",
-    "qimo-review/docs/algorithm/06.md",
-    "qimo-review/docs/README.md"
+    "README.md",
+    "Recording 20220528222418.webm",
+    "2022-05-28.md",
+    "leetcode-master/problems/周总结/20201030回溯周末总结.md",
+    "English-level-up-tips/word-list/Java.md",
+    "leetcode-master/problems/0020.有效的括号.md",
+    "fucking-algorithm-book/第3章-数据结构系列/3.3-二叉搜索树操作集锦.md",
+    "leetcode-master/problems/0135.分发糖果.md",
+    "fucking-algorithm-book/第4章-算法思维系列/4.7-拆解复杂问题：实现计算器.md",
+    "leetcode-master/problems/周总结/20201003二叉树周末总结.md"
   ]
 }
